@@ -5,7 +5,7 @@
 .first-div {
     width: 500px;
     height: 500px;
-    background-color: #4CAF50;
+    background-color: #228dec;
     border-width: 3px;
     border-style: solid;
     border-color: #333; 
@@ -18,4 +18,25 @@
     color: #fff;
     font-size: 18px;
     text-align: center;
+}
+.normalpara {
+    color: green;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+#fav-para {
+    color: purple;
+    font-weight: bold;
+}
+header {
+    background-color: #1261bd;
+    display: flex;
+    justify-content: center; 
+    align-items: center;                
+    font-size: 30px;
+    font-weight: bold;
+}
+html {
+    background-color: #89c49ee7;
 }
